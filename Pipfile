@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 torch = "*"
 transformers = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
