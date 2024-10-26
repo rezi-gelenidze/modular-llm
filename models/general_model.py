@@ -1,0 +1,2 @@
+class GeneralModel:
+    pass

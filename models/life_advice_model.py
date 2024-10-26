@@ -1,0 +1,2 @@
+class LifeAdviceModel:
+    pass
